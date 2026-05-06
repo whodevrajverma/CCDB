@@ -63,10 +63,6 @@ CCDB is organized into six primary relational tables to ensure data integrity an
   
 ## Contact & Authors
 
-**Dr. Subhash M. Agarwal** (Corresponding Author)
-smagarwal@yahoo.com
-Bioinformatics Division, Institute of Cytology and Preventive Oncology (ICPO), Noida, India.
-
 **Prof. G.P.S. Raghava**
 raghava@imtech.res.in
 Bioinformatics Centre, Institute of Microbial Technology (IMTECH), Chandigarh, India.
