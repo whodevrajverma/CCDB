@@ -2,7 +2,7 @@
 
 Welcome to the official repository and documentation overview for the **Cervical Cancer gene DataBase (CCDB)**, a manually curated catalog of experimentally validated genes and microRNAs involved in the various stages of cervical carcinogenesis. This resource serves as a specialized platform for researchers and clinicians to explore the molecular mechanisms underlying one of the most common malignancies affecting women worldwide.
 
-**Web Server:** [http://crdd.osdd.net/raghava/ccdb](http://crdd.osdd.net/raghava/ccdb)
+**Web Server:** [[http://crdd.osdd.net/raghava/ccdb](http://crdd.osdd.net/raghava/ccdb](https://webs.iiitd.edu.in/raghava/ccdb/))
 
 
 ## Citation
@@ -64,8 +64,9 @@ CCDB is organized into six primary relational tables to ensure data integrity an
 ## Contact & Authors
 
 **Prof. G.P.S. Raghava**
-raghava@imtech.res.in
-Bioinformatics Centre, Institute of Microbial Technology (IMTECH), Chandigarh, India.
+raghava@iiitd.ac.in
+
+IIIT Delhi
 
 ## License
 
