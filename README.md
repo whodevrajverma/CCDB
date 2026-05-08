@@ -12,6 +12,7 @@ Agarwal, S. M., Raghav, D., Singh, H., & Raghava, G. P. S. (2011).
 *Nucleic Acids Research*, 39 (Database issue), D975–D979. 
 [https://doi.org/10.1093/nar/gkq1024](https://doi.org/10.1093/nar/gkq1024)
 
+This dataset can also be found on Zenodo at https://doi.org/10.5281/zenodo.20063810
 
 ## About the Database
 
